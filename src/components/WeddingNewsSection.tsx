@@ -10,7 +10,7 @@ const WeddingNewsSection = () => {
       author: "Laura Sweety",
       date: "25 Sep 2022",
       description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
-      image: "/lovable-uploads/t1.webp",
+      image: "/wedding-invitation3/lovable-uploads/t1.webp",
 
     },
     {
@@ -20,7 +20,7 @@ const WeddingNewsSection = () => {
       author: "Laura Sweety",
       date: "25 Sep 2022",
       description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
-      image: "/lovable-uploads/t2.jpg",
+      image: "/wedding-invitation3/lovable-uploads/t2.jpg",
 
     },
     {
@@ -30,7 +30,7 @@ const WeddingNewsSection = () => {
       author: "Laura Sweety",
       date: "25 Sep 2022",
       description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
-      image: "/lovable-uploads/t3.jpg",
+      image: "/wedding-invitation3/lovable-uploads/t3.jpg",
 
     }
   ];
