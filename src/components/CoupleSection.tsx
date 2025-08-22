@@ -49,13 +49,13 @@ const CoupleSection = () => {
 
               {/* Name */}
               <h3 className="text-4xl sm:text-5xl font-dancing font-bold text-primary mb-6">
-                Syed Mohammed Talha
+                Syed Mohammed 
               </h3>
 
               {/* Description */}
               <p className="text-muted-foreground font-inter text-sm sm:text-base leading-relaxed max-w-md mx-auto mb-6">
-                      <strong>Software Developer, B.Tech </strong> <br />
-                      S/O : Syed Mushtaq
+                      <strong>Software Developer, M.Tech </strong> <br />
+                      S/O : Syed Mohammed khan
               </p>
 
               {/* Social Icons */}
@@ -90,13 +90,13 @@ const CoupleSection = () => {
 
               {/* Name */}
               <h3 className="text-4xl sm:text-5xl font-dancing font-bold text-primary mb-6">
-                Bhabhi
+                Habeeba
               </h3>
 
               {/* Description */}
               <p className="text-muted-foreground font-inter text-sm sm:text-base leading-relaxed max-w-md mx-auto mb-6">
-              <strong> Aalima </strong> <br />
-              D/O : Syed Mohammad
+              <strong> B.sc </strong> <br />
+              D/O : Shaik Rahman
               </p>
 
               {/* Social Icons */}

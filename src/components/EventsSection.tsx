@@ -6,26 +6,25 @@ const EventsSection = () => {
   const events = [
     {
       id: 1,
-      title: "The Nikha",
-      date: "Monday, 25 Sep, 2022",
-      time: "1:00 PM - 4:30 PM",
-      venue: "Estern Star Plaza, Road 123, USA",
-      phone: "+1 234-567-8910"
+      title: "The Nikah",
+      date: "Monday, 08 Dec, 2026",
+      time: "After Magrib",
+      venue: "Masjid e Jama Masjid , Tolichowki"
     },
     {
       id: 2,
       title: "The Reception", 
-      date: "Monday, 25 Sep, 2022",
-      time: "1:00 PM - 4:30 PM",
-      venue: "Estern Star Plaza, Road 123, USA",
+      date: "Monday, 08 Dec, 2026",
+      time: "8:30 PM",
+      venue: "Vintage Plaza Ring Road , pillar No 102 ",
       phone: "+1 234-567-8910"
     },
     {
       id: 3,
       title: "Dinner",
-      date: "Monday, 25 Sep, 2022", 
-      time: "1:00 PM - 4:30 PM",
-      venue: "Estern Star Plaza, Road 123, USA",
+      date: "Monday, 10 Dec, 2026", 
+      time: "8:30 PM",
+      venue: "King Plaza , Guddimalkapur",
       phone: "+1 234-567-8910"
     }
   ];
@@ -122,12 +121,12 @@ const EventsSection = () => {
                     </p>
                   </div>
 
-                  <div className="flex items-center justify-center gap-2">
+                  {/* <div className="flex items-center justify-center gap-2">
                     <Phone size={16} className="text-wedding-pink" />
                     <p className="font-inter text-sm">
                       {event.phone}
                     </p>
-                  </div>
+                  </div> */}
 
                   {/* See Location Button */}
                   <button className="mt-6 text-wedding-pink font-inter text-sm font-medium hover:text-primary transition-colors duration-200 border-b border-wedding-pink hover:border-primary">
@@ -141,28 +140,7 @@ const EventsSection = () => {
       </div>
 
       {/* Bottom Decorative Logos Section */}
-      <div className="px-6 pb-16">
-        <div className="max-w-4xl mx-auto">
-          <div className="flex justify-center items-center gap-8 lg:gap-12 opacity-40">
-            {/* Decorative brand-style logos */}
-            <div className="text-2xl font-dancing text-muted-foreground">
-              Bakers
-            </div>
-            <div className="text-xl font-playfair text-muted-foreground italic">
-              Sweet Macarons
-            </div>
-            <div className="text-lg font-dancing text-muted-foreground">
-              Carousel
-            </div>
-            <div className="text-xl font-playfair text-muted-foreground">
-              Joy Wedding
-            </div>
-            <div className="text-lg font-dancing text-muted-foreground italic">
-              pure
-            </div>
-          </div>
-        </div>
-      </div>
+     
     </section>
   );
 };

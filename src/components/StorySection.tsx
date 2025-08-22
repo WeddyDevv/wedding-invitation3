@@ -163,16 +163,17 @@ const StorySection = () => {
             <div className="flex-1 lg:pl-8">
               <div className="bg-white p-8 rounded-lg shadow-lg border-l-4 border-wedding-pink max-w-md">
                 <h3 className="text-3xl sm:text-4xl font-dancing font-bold text-primary mb-2">
-                  First Time We Meet
+                  Nikah – A Sacred Bond
                 </h3>
                 <div className="flex items-center gap-3 mb-6">
                   <div className="w-3 h-3 bg-wedding-pink rounded-full"></div>
-                  <span className="text-wedding-pink font-inter font-medium">19 Jan 2018</span>
+                  <span className="text-wedding-pink font-inter font-medium">"And We created you in pairs."
+<br />
+— Qur'an 78:8</span>
                   <div className="flex-1 h-px bg-wedding-pink opacity-30"></div>
                 </div>
                 <p className="text-muted-foreground font-inter text-sm leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultricies nulla mi tempus malesuada. Ultricies interdum volutpat mauris nam ornare neque elit leo, diam. Malesuada enim ac anurna tempor vel duis.
-                </p>
+               Nikah is not just a contract, but a divine bond that completes half of faith, bringing peace, love, and protection between two souls. </p>
               </div>
             </div>
           </div>
@@ -187,7 +188,7 @@ const StorySection = () => {
               <div className="relative max-w-md mr-auto">
                 <div className="bg-white p-4 rounded-lg shadow-lg transform -rotate-1">
                   <img
-                    src="/wedding-invitation3/lovable-uploads/f18caf4b-a804-4a60-a329-35c5660a9fac.png"
+                    src="/wedding-invitation3/lovable-uploads/q2.webp"
                     alt="Our first date"
                     className="w-full h-64 sm:h-80 object-cover rounded-md"
                   />
@@ -207,16 +208,17 @@ const StorySection = () => {
             <div className="flex-1 lg:pr-8">
               <div className="bg-white p-8 rounded-lg shadow-lg border-r-4 border-wedding-pink max-w-md ml-auto lg:ml-0">
                 <h3 className="text-3xl sm:text-4xl font-dancing font-bold text-primary mb-2">
-                  Our First Date
+                Love & Mercy in Marriage
                 </h3>
                 <div className="flex items-center gap-3 mb-6">
                   <div className="w-3 h-3 bg-wedding-pink rounded-full"></div>
-                  <span className="text-wedding-pink font-inter font-medium">14 Feb 2018</span>
+                  <span className="text-wedding-pink font-inter font-medium">And among His signs is that He created for you spouses from among yourselves, that you may find tranquility in them, and He placed between you love and mercy. Indeed in that are signs for people who reflect.
+<br />
+— Qur'an 30:21</span>
                   <div className="flex-1 h-px bg-wedding-pink opacity-30"></div>
                 </div>
                 <p className="text-muted-foreground font-inter text-sm leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ultricies nulla mi tempus malesuada. Ultricies interdum volutpat mauris nam ornare neque elit leo, diam. Malesuada enim ac anurna tempor vel duis.
-                </p>
+              Marriage is built on compassion, care, and mercy — a relationship where two hearts find peace with each other</p>
               </div>
             </div>
           </div>
