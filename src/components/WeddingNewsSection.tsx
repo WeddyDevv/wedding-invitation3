@@ -5,31 +5,31 @@ const WeddingNewsSection = () => {
   const newsArticles = [
     {
       id: 1,
-      category: "Decoration",
-      title: "Wedding Table Decoration!",
-      author: "Laura Sweety",
-      date: "25 Sep 2022",
-      description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
+      category: "",
+      title: "Haldi Function",
+      author: "By Family & Friends",
+      date: "22 Sep 2026",
+      description: "The Haldi ceremony is a beautiful ritual where turmeric paste is applied to the bride and groom. It symbolizes purity, prosperity, and wards off evil. It’s filled with laughter, blessings, and vibrant yellow hues.",
       image: "/wedding-invitation3/lovable-uploads/t1.webp",
 
     },
     {
       id: 2,
       category: "Wedding",
-      title: "Best Bride Bouquet",
-      author: "Laura Sweety",
-      date: "25 Sep 2022",
-      description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
+      title: "Mehendi Function",
+      author: "By Family & Friends",
+      date: "25 Sep 2026",
+      description: "The Mehendi ceremony celebrates joy and artistry. Intricate henna designs are applied to the bride’s hands and feet, symbolizing love, happiness, and good fortune. The evening is filled with music, dance, and fun.",
       image: "/wedding-invitation3/lovable-uploads/t2.jpg",
 
     },
     {
       id: 3,
       category: "Photography",
-      title: "Wedding Photography Idea",
-      author: "Laura Sweety",
-      date: "25 Sep 2022",
-      description: "Consectetur adipiscing elit. Bibendum qurulla suspen sed consectetur. Donec porttitor consectetur cras quam sapien massa.",
+      title: "Sanchak Function",
+      author: "By Family & Friends",
+      date: "25 Sep 2026",
+      description: "The Sanchak (pre-wedding) gathering is where close relatives and friends come together to bless the couple. It’s marked by traditional rituals, cultural songs, and a heartwarming family atmosphere.",
       image: "/wedding-invitation3/lovable-uploads/t3.jpg",
 
     }
@@ -102,10 +102,10 @@ const WeddingNewsSection = () => {
                 />
                 
                 {/* Category Tag */}
-                <div className="absolute top-4 left-4">
-                  <span className="bg-white/90 text-muted-foreground px-3 py-1 rounded-full text-xs font-inter font-medium backdrop-blur-sm">
+                <div className="absolute top-4 left-4"> 
+                  {/* <span className="bg-white/90 text-muted-foreground px-3 py-1 rounded-full text-xs font-inter font-medium backdrop-blur-sm">
                     {article.category}
-                  </span>
+                  </span> */}
                 </div>
               </div>
 

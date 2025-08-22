@@ -41,9 +41,9 @@ const HeroSection = () => {
 
             {/* Couple Names */}
             <h1 className="text-5xl lg:text-7xl font-dancing font-bold mb-6">
-              <span className="text-primary"> Talha</span>
+              <span className="text-primary"> Mohd </span>
               <span className="text-wedding-pink mx-4">&</span>
-              <span className="text-primary">Ariba</span>
+              <span className="text-primary">Habeeba</span>
             </h1>
 
             {/* Wedding Date */}
